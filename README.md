@@ -16,7 +16,7 @@ I'm currently diving into the exciting world of web development, where I'm explo
 
 If you'd like to connect, collaborate, or simply discuss technology, movies, or anything else, feel free to reach out!
 
-- 📧 Email: [YourEmail@example.com](mailto:youremail@example.com)
+- 📧 Email: [sudihajisaidi@gmail.com](mailto:youremail@example.com)
 - 💬 LinkedIn: [Sudi Saidi](https://www.linkedin.com/in/sudisaidi)
 - 🎬 Twitter: [@sudisaidi](https://twitter.com/YourTwitterHandle)
 
