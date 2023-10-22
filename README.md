@@ -18,7 +18,7 @@ If you'd like to connect, collaborate, or simply discuss technology, movies, or 
 
 - 📧 Email: [sudihajisaidi@gmail.com](mailto:youremail@example.com)
 - 💬 LinkedIn: [Sudi Saidi](https://www.linkedin.com/in/sudisaidi)
-- 🎬 Twitter: [@sudisaidi](https://twitter.com/YourTwitterHandle)
+- 🎬 Twitter: [@sudisaidi_](https://twitter.com/YourTwitterHandle)
 
 Let's learn, code, and enjoy movies together! 🚀🎉
 
