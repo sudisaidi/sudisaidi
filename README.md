@@ -1,6 +1,5 @@
-# Sudi Saidi - Network Engineer and Enthusiast
+#  Hi, I'm Sudi Saidi! 👋
 
-![Network Engineer](insert-image-url-here)
 
 ## About Me
 
