@@ -25,6 +25,6 @@ If you share a passion for networking, want to discuss network design, or just c
 
 - 📧 Email: [sudihajisaidi@gmail.com](mailto:sudihajisaidi@gmail.com)
 - 💼 LinkedIn: [Sudi Saidi](https://www.linkedin.com/in/sudi-saidi-0ba226275)
-- Twitter: [@sudisaidi_](https://twitter.com/sudisaidi_)
+- Twitter: [@sudisaidi_](https://twitter.com/sudithesudoer)
 
 Let's connect, collaborate, and build resilient networks together! 🌐🚀
